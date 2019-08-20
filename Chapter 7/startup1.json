@@ -1,0 +1,12 @@
+[
+  {
+    "description": "mcok例子第一个",
+    "request": {
+      "uri": "/demo"
+    },
+    "response": {
+      "text": "demo框架第一个"
+    }
+  }
+
+]

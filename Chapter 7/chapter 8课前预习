@@ -1,0 +1,18 @@
+二二二二二
+get请求
+url:
+http://192.168.1.144:8080?usrname=linzhu&password=123456
+
+post请求
+url:
+http://192.168.1.144:8080
+请求体
+{
+    [
+        "usrname"= "linzhu"
+        "password" = "123456"
+    ]
+}
+
+三三三三三三三三
+Jmter支持自定义java组件开发
